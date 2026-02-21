@@ -1,5 +1,5 @@
 markdown
-# Adolf [Vaše Příjmení] 
+# Adolf Ptáček
 ### Researcher | Ancient Egyptian Architecture & Geometry
 
 Welcome to my research profile. I specialize in the structural and functional determination of the Great Pyramid of Giza (Khufu).
