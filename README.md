@@ -1,16 +1,16 @@
-## Hi there 👋
+markdown
+# Adolf [Vaše Příjmení] 
+### Researcher | Ancient Egyptian Architecture & Geometry
 
-<!--
-**schwarcwald-creator/schwarcwald-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my research profile. I specialize in the structural and functional determination of the Great Pyramid of Giza (Khufu).
 
-Here are some ideas to get you started:
+## Current Research Focus
+* **The Grand Gallery:** Geometric analysis and functional theories.
+* **Ancient Metrology:** Systems of measurement used in the Old Kingdom.
+* **Structural Engineering:** Analyzing the internal chambers of the Khufu pyramid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Published Datasets & Papers
+* [Link na Zenodo] - Geometric and Functional Determination of the Grand Gallery.
+
+## Contact
+* Email: schwarcwald@seznam.cz
